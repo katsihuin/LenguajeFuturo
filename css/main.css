@@ -1,0 +1,42 @@
+
+
+header {
+	background: url("../img/grupal.jpg") no-repeat;
+	background-size: cover;
+	height: 450px;
+}
+
+header .grid .firstbutton {
+	margin-top: 75px;
+	margin-left: 75px;
+	background-color:yellow;
+}
+
+header nav ul {
+	list-style: none;
+	margin-top: 75px
+
+}
+
+header nav ul li {
+	display: inline-block;
+	margin-right:10px;
+}
+
+header nav ul li img{
+
+}
+
+
+section .row img {
+	width: 95%;
+}
+
+section .row span {
+	font-weight: bold;
+}
+
+footer {
+	background-color:darkgrey;
+	color:white;
+}
